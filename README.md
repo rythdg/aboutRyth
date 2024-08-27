@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ryth! 👋
 
-<!--
-**rythdg/rythdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ryth-dasgupta-240235212/)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/rythdg)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:ryth31dasgupta@gmail.com)
 
-Here are some ideas to get you started:
+## About Me
+I'm a computational biologist with a passion for reconstituting emergent proporties using course grained models and simple code. I love working on biological membrane simulations and exploring new areas where my skills can be useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+
+## 📷 Gallery
+
+
+## 📄 Resumé
+[Download My Resumé](https://linktoyourresume.com)
